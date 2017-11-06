@@ -1,0 +1,8 @@
+package com.acme.corp.configuration;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages = "com.programmer.gate")
+public class ApplicationConfiguration {
+
+}

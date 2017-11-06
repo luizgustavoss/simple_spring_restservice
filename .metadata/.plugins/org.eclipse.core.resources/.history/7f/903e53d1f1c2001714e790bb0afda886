@@ -1,0 +1,5 @@
+package com.acme.corp.model;
+
+public class PaymentRequest {
+
+}

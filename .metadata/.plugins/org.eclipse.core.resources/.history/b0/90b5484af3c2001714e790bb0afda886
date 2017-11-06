@@ -1,0 +1,8 @@
+package com.acme.corp.configuration;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages = "com.acme.corp.controller, com.acme.corp.model")
+public class ApplicationConfiguration {
+
+}
